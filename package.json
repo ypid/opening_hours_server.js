@@ -5,7 +5,7 @@
     "private"     :  true,
     "dependencies": {
         "opening_hours" :  "*",
-        "express"       :  "4.8.5",
+        "express"       :  "4.19.2",
         "optimist"      :  "0.6.1"
     }
 }
